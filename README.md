@@ -55,4 +55,5 @@ Después abrir el notebook `analisis_heart.ipynb`.
 - Tratamiento de datos faltantes
 - Conversión de variables categóricas
 - Estandarización de variables numéricas
- estuvo aquiiiiiiii
+ estuvo aquiiiiiiii 
+ prueba numero 10000004
